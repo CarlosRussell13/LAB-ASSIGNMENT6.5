@@ -1,4 +1,4 @@
-import Alpine from '/node_modules/alpinejs/dist/module.esm.js';
+import Alpine from '/_includes/alpinejs/dist/module.esm.js';
 
 Alpine.data('NameGenerator', () => ({
     names: ['Ricky', 'Dicky', 'Dawn', 'Bobby', 'Carlos', 'Siarto', 'Rochelle', 'David', 'Jaden', 'Kennedy'],
