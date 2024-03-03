@@ -1,28 +1,23 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #dffce1;
+    color: #ffffff;
     background: #cacaca;
     padding: 0 40px;
     text-align: center;
 }
-
 h1 {
     font-size: 8em;
-    letter-spacing: px;
 }
-
 p {
     font-size: 1.5em;
     color: hsl(93, 66%, 78%);
     margin-right: 20px;
 }
-
 button {
     border-radius: 5px;
     height: 50px;
     width: 175px;
 }
-
 button:hover {
-    background-color: white;
+    background-color: rgb(207, 203, 203);
 }
