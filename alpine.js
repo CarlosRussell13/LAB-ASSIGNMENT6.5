@@ -5,8 +5,8 @@ Alpine.data('NameGenerator', () => ({
     randomName: '',
 
     generateName() {
-        const randomIndex = Math.floor(Math.random() * this.names.length);
-        this.randomName = this.names[randomIndex];
+        const randomName = Math.floor(Math.random() * this.names.length);
+        this.randomName = this.names[randomName];
     }
 }));
 
