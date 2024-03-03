@@ -1,7 +1,7 @@
 import Alpine from '/node_modules/alpinejs/dist/module.esm.js';
 
 Alpine.data('NameGenerator', () => ({
-    names: ['David', 'Benny', 'Marcos', 'Abbie', 'Obed', 'Fernando', 'Tomas', 'Rodrigo', 'Minerva', 'Merari'],
+    names: ['Ricky', 'Dicky', 'Dawn', 'Bobby', 'Carlos', 'Siarto', 'Rochelle', 'David', 'Jaden', 'Kennedy'],
     randomName: '',
 
     generateName() {
